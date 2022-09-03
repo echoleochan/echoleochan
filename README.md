@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div align="center">
+<div>
     <img  height="150px" src="https://github-readme-stats.vercel.app/api?username=leochan&show_icons=true&count_private=true&hide=prs&theme=default_repocard" />
     <img  height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leochan&layout=compact" /> 
 </div>
