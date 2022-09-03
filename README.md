@@ -2,7 +2,7 @@
 
 <div>
     <img  height="150px" src="https://github-readme-stats.vercel.app/api?username=leochan&show_icons=true&count_private=true&hide=prs&theme=default_repocard" />
-    <img  height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leochan&layout=compact" /> 
+    <img  height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leochan&layout=compact" /> 
 </div>
 **echoleochan/echoleochan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
