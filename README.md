@@ -51,7 +51,7 @@
 > 🤝 **I love to make friends. so if you want to say hi, I'll be happy to meet you more! 😄**
 
 
-| [CSDN](https://blog.csdn.net/echoleochan) 
+| [CSDN](https://blog.csdn.net/m0_51044151?type=blog) 
 
 ⭐️ From [echoleochan](https://github.com/echoleochan)
 
