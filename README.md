@@ -1,4 +1,4 @@
-### Hi there 👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F79D47&center=true&vCenter=true&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
 
 <div align="center">
     <img  height="150px" src="https://github-readme-stats.vercel.app/api?username=echoleochan&show_icons=true&count_private=true&hide=prs&theme=default_repocard" />
@@ -42,10 +42,6 @@
 
 <!-- 总数记录-->
 
-<!--🔭 当前在一家机器人公司全职工作-->
-
-<!-- https://github-readme-streak-stats.herokuapp.com/?user=echoleochan -->
-
 <!-- 连续提交代码天数记录-->
 
 <!-- <div align="center">
@@ -56,8 +52,6 @@
 
 
 | [CSDN](https://blog.csdn.net/echoleochan) 
-| :------------------------------------: | :-------------------------------------------: | :------------------------------------: | :---------------------------: | :-------------------: |
 
 ⭐️ From [echoleochan](https://github.com/echoleochan)
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F79D47&center=true&vCenter=true&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
 
