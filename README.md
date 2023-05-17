@@ -32,7 +32,6 @@
 ![Vue.js](https://img.shields.io/badge/-VueJS-333333?style=flat&logo=Vue.js)
 - 🛢 &#160; ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=Oracle)
 - 🔧 &#160;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
@@ -56,7 +55,7 @@
 > 🤝 **I love to make friends. so if you want to say hi, I'll be happy to meet you more! 😄**
 
 
-| [CSDN](https://blog.csdn.net/echoleochan) | [知乎](https://www.zhihu.com/people/echoleochan) | [微博](https://weibo.com/u/2662012821) | [博客](https://love.tylt.xyz) | 微信公众号 [天宇龙腾] |
+| [CSDN](https://blog.csdn.net/echoleochan) 
 | :------------------------------------: | :-------------------------------------------: | :------------------------------------: | :---------------------------: | :-------------------: |
 
 ⭐️ From [echoleochan](https://github.com/echoleochan)
